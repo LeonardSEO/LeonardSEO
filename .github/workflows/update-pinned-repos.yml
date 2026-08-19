@@ -1,0 +1,46 @@
+name: Update pinned repositories
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pinned-repositories
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Synchronize pinned repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PINNED_USER: LeonardSEO
+        run: node .github/scripts/update-pinned-repos.mjs
+
+      - name: Commit changed profile README
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Pinned repositories are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync pinned repositories"
+          git push

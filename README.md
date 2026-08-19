@@ -41,16 +41,19 @@ I build practical **AI agents**, **Microsoft Power Platform solutions**, develop
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
 
-## Selected open-source work
+## Pinned repositories
 
-| Project | What it demonstrates |
+<!-- PINNED-REPOS:START -->
+_Automatically synced with the repositories pinned on my GitHub profile._
+
+| Repository | Description |
 |---|---|
-| [Power Platform Skills for Codex](https://github.com/LeonardSEO/power-platform-skills-codex) | Codex-native Power Platform skills, telemetry disabled, with automated Microsoft upstream synchronization. |
-| [Power Apps Code Apps Skill](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible guidance for building and reviewing Power Apps Code Apps with Codex and Claude Code. |
-| [Prompt Engineer Skill](https://github.com/LeonardSEO/prompt-engineer-skill) | A portable Agent Skills-compatible system for improving prompts across Claude and GPT model families. |
-| [MinuteWave](https://github.com/LeonardSEO/MinuteWave) | A local-first macOS meeting copilot with transcription, diarization, summaries, and transcript chat. |
-| [Liquid Glass React](https://github.com/LeonardSEO/liquid-glass-react) | Lightweight SVG edge refraction for React and Next.js without WebGL or canvas. |
-| [Semilocal Weil Proxy Bridge](https://github.com/LeonardSEO/semilocal-weil-proxy-bridge) | Reproducible mathematical research with a paper, code, certificates, CI, DOI, and independent audits. |
+| [`decision-council`](https://github.com/LeonardSEO/decision-council) | Structured multi-persona AI decision council skill — one defensible recommendation from independent expert personas, adversarial review, and evidence-weighted synthesis |
+| [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter — no WebGL, no canvas, ~5KB |
+| [`chatgpt-gemini-like-tone`](https://github.com/LeonardSEO/chatgpt-gemini-like-tone) | Gemini-like ChatGPT tone via Custom Instructions (V1) |
+| [`power-apps-code-apps-skill`](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible skill for vibecoding Power Apps Code Apps with Codex and Claude Code. |
+| [`power-platform-skills-codex`](https://github.com/LeonardSEO/power-platform-skills-codex) | Unofficial Codex adaptation of Microsoft Power Platform Skills with telemetry hard-disabled and automated upstream sync. |
+<!-- PINNED-REPOS:END -->
 
 ## GitHub contributions
 

@@ -15,6 +15,7 @@
 I build practical **AI agents**, **Microsoft Power Platform solutions**, developer tools, and business automations at [VEPANDO](https://vepando.com). My work connects AI-assisted software development with production systems: Power Apps Code Apps, Dataverse, Power Automate, n8n, MCP servers, APIs, and secure self-hosted services.
 
 [![VEPANDO](https://img.shields.io/badge/VEPANDO-Website-6f42c1?style=flat-square)](https://vepando.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonardseo.github.io-0b7d4f?style=flat-square&logo=githubpages&logoColor=white)](https://leonardseo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonard_van_Hemert-0969da?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-van-hemert/)
 [![GitHub](https://img.shields.io/badge/GitHub-LeonardSEO-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/LeonardSEO)
 
@@ -78,6 +79,7 @@ I build practical **AI agents**, **Microsoft Power Platform solutions**, develop
 
 I'm open to practical AI, Power Platform, automation, and developer-tooling collaborations.
 
-- Website: [vepando.com](https://vepando.com)
+- Portfolio: [leonardseo.github.io](https://leonardseo.github.io/)
+- Company website: [vepando.com](https://vepando.com)
 - LinkedIn: [Leonard van Hemert](https://www.linkedin.com/in/leonard-van-hemert/)
 - GitHub: [@LeonardSEO](https://github.com/LeonardSEO)

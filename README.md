@@ -53,6 +53,7 @@ _Automatically synced with the repositories pinned on my GitHub profile._
 | [`chatgpt-gemini-like-tone`](https://github.com/LeonardSEO/chatgpt-gemini-like-tone) | Gemini-like ChatGPT tone via Custom Instructions (V1) |
 | [`power-apps-code-apps-skill`](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible skill for vibecoding Power Apps Code Apps with Codex and Claude Code. |
 | [`power-platform-skills-codex`](https://github.com/LeonardSEO/power-platform-skills-codex) | Unofficial Codex adaptation of Microsoft Power Platform Skills with telemetry hard-disabled and automated upstream sync. |
+| [`switchyard`](https://github.com/LeonardSEO/switchyard) | Subscription-aware economic model router for coding agents |
 <!-- PINNED-REPOS:END -->
 
 ## GitHub contributions

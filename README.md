@@ -48,12 +48,12 @@ _Automatically synced with the repositories pinned on my GitHub profile._
 
 | Repository | Description |
 |---|---|
-| [`decision-council`](https://github.com/LeonardSEO/decision-council) | Structured multi-persona AI decision council skill — one defensible recommendation from independent expert personas, adversarial review, and evidence-weighted synthesis |
-| [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter — no WebGL, no canvas, ~5KB |
-| [`chatgpt-gemini-like-tone`](https://github.com/LeonardSEO/chatgpt-gemini-like-tone) | Gemini-like ChatGPT tone via Custom Instructions (V1) |
+| [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter \| no WebGL, no canvas rendering, ~5KB |
 | [`power-apps-code-apps-skill`](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible skill for vibecoding Power Apps Code Apps with Codex and Claude Code. |
 | [`power-platform-skills-codex`](https://github.com/LeonardSEO/power-platform-skills-codex) | Unofficial Codex adaptation of Microsoft Power Platform Skills with telemetry hard-disabled and automated upstream sync. |
-| [`switchyard`](https://github.com/LeonardSEO/switchyard) | Subscription-aware economic model router for coding agents |
+| [`theta-coupling-estimates`](https://github.com/LeonardSEO/theta-coupling-estimates) | Sharp fixed-frame theta coupling estimates in a signed Weil-form realization — mathematical preprint by Leonard van Hemert. |
+| [`ambitious-math-research`](https://github.com/LeonardSEO/ambitious-math-research) | Eight agent skills for ambitious mathematical research: diverse proof search, constructive audits, confident progress, and optional Lean formalization. |
+| [`pstack-for-codex`](https://github.com/LeonardSEO/pstack-for-codex) | Engineering workflows for OpenAI Codex: agent skills for debugging, architecture, code review and verification. Adapted from pstack with daily upstream sync. |
 <!-- PINNED-REPOS:END -->
 
 ## GitHub contributions

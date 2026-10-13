@@ -51,9 +51,9 @@ _Automatically synced with the repositories pinned on my GitHub profile._
 | [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter \| no WebGL, no canvas rendering, ~5KB |
 | [`power-apps-code-apps-skill`](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible skill for vibecoding Power Apps Code Apps with Codex and Claude Code. |
 | [`power-platform-skills-codex`](https://github.com/LeonardSEO/power-platform-skills-codex) | Unofficial Codex adaptation of Microsoft Power Platform Skills with telemetry hard-disabled and automated upstream sync. |
-| [`theta-coupling-estimates`](https://github.com/LeonardSEO/theta-coupling-estimates) | Sharp fixed-frame theta coupling estimates in a signed Weil-form realization — mathematical preprint by Leonard van Hemert. |
 | [`ambitious-math-research`](https://github.com/LeonardSEO/ambitious-math-research) | Eight agent skills for ambitious mathematical research: diverse proof search, constructive audits, confident progress, and optional Lean formalization. |
 | [`pstack-for-codex`](https://github.com/LeonardSEO/pstack-for-codex) | Engineering workflows for OpenAI Codex: agent skills for debugging, architecture, code review and verification. Adapted from pstack with daily upstream sync. |
+| [`odd-theta-weil-bounds`](https://github.com/LeonardSEO/odd-theta-weil-bounds) | Certified odd theta-Weil bounds, equality barriers, reproducible certificates and a pinned Lean proof project. |
 <!-- PINNED-REPOS:END -->
 
 ## GitHub contributions

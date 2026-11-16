@@ -49,11 +49,11 @@ _Automatically synced with the repositories pinned on my GitHub profile._
 | Repository | Description |
 |---|---|
 | [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter \| no WebGL, no canvas rendering, ~5KB |
+| [`ForgeReels`](https://github.com/LeonardSEO/ForgeReels) | One prompt in, a finished vertical reel out. A local video studio for Claude Code on macOS: script, voice (EN + NL), word-exact animation, render and QC. |
+| [`performance-engineering`](https://github.com/LeonardSEO/performance-engineering) | Nine focused performance skills and advisory hooks for Codex and Claude Code. Framework-independent core, React and React Native guidance. |
+| [`ux-clarity`](https://github.com/LeonardSEO/ux-clarity) | A standalone agent skill for clearer interfaces: information architecture, task priority, navigation, and usability heuristics. Install with npx skills add. |
 | [`power-apps-code-apps-skill`](https://github.com/LeonardSEO/power-apps-code-apps-skill) | Cross-compatible skill for vibecoding Power Apps Code Apps with Codex and Claude Code. |
-| [`power-platform-skills-codex`](https://github.com/LeonardSEO/power-platform-skills-codex) | Unofficial Codex adaptation of Microsoft Power Platform Skills with telemetry hard-disabled and automated upstream sync. |
-| [`ambitious-math-research`](https://github.com/LeonardSEO/ambitious-math-research) | Eight agent skills for ambitious mathematical research: diverse proof search, constructive audits, confident progress, and optional Lean formalization. |
 | [`pstack-for-codex`](https://github.com/LeonardSEO/pstack-for-codex) | Engineering workflows for OpenAI Codex: agent skills for debugging, architecture, code review and verification. Adapted from pstack with daily upstream sync. |
-| [`odd-theta-weil-bounds`](https://github.com/LeonardSEO/odd-theta-weil-bounds) | Certified odd theta-Weil bounds, equality barriers, reproducible certificates and a pinned Lean proof project. |
 <!-- PINNED-REPOS:END -->
 
 ## GitHub contributions

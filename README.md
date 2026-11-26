@@ -32,13 +32,18 @@ I work across the stack, from application architecture and API integrations to d
 
 ## Selected projects
 
-| Project | Description |
-| :--- | :--- |
-| [liquid-glass-react](https://github.com/LeonardSEO/liquid-glass-react) | SVG-based optical refraction for React. No WebGL or canvas. |
-| [ForgeReels](https://github.com/LeonardSEO/ForgeReels) | Local video production pipeline with AI-driven scripting, speech synthesis, rendering, and quality control. |
-| [performance-engineering](https://github.com/LeonardSEO/performance-engineering) | Framework-independent performance engineering skills and hooks for coding agents. |
-| [ux-clarity](https://github.com/LeonardSEO/ux-clarity) | Agent skill for information architecture, navigation, and interface usability. |
-| [pstack-for-codex](https://github.com/LeonardSEO/pstack-for-codex) | Engineering workflows for architecture, debugging, code review, and verification in Codex. |
+<!-- PINNED-REPOS:START -->
+_Automatically synced with the repositories pinned on my GitHub profile._
+
+| Repository | Description |
+|---|---|
+| [`liquid-glass-react`](https://github.com/LeonardSEO/liquid-glass-react) | Real Apple-style "Liquid Glass" edge refraction for React/Next.js using a single SVG feDisplacementMap filter \| no WebGL, no canvas rendering, ~5KB |
+| [`ForgeReels`](https://github.com/LeonardSEO/ForgeReels) | One prompt in, a finished vertical reel out. A local video studio for Claude Code on macOS: script, voice (EN + NL), word-exact animation, render and QC. |
+| [`performance-engineering`](https://github.com/LeonardSEO/performance-engineering) | Nine focused performance skills and advisory hooks for Codex and Claude Code. Framework-independent core, React and React Native guidance. |
+| [`ux-clarity`](https://github.com/LeonardSEO/ux-clarity) | A standalone agent skill for clearer interfaces: information architecture, task priority, navigation, and usability heuristics. Install with npx skills add. |
+| [`pstack-for-codex`](https://github.com/LeonardSEO/pstack-for-codex) | Engineering workflows for OpenAI Codex: agent skills for debugging, architecture, code review and verification. Adapted from pstack with daily upstream sync. |
+| [`riemann-xi-zero-detection`](https://github.com/LeonardSEO/riemann-xi-zero-detection) | Exact zero-detection and compact arithmetic realization theorems for the Riemann xi function; standalone preprint and finite reproducibility materials. RH unresolved. |
+<!-- PINNED-REPOS:END -->
 
 ## Current work
 
